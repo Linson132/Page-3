@@ -1,15 +1,46 @@
 <h1>Robux Store</h1>
+<html>
+<body>
 
 
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
 
-
-
-
-
-
-
-
-  <p>V-Bucks <a href="https://linson132.github.io/Page-2/">Click Here</a> </p>
+</body>
+<p>V-Bucks <a href="https://linson132.github.io/Page-2/">Click Here</a> </p>
   
  <p>Original Page <a href="https://linson132.github.io/Random-Store/">Click Here</a> </p>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
