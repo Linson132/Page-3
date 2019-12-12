@@ -11,8 +11,8 @@
  
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>1,000</td>
+    <td>$6</td>
 
   </tr>
   <tr>
