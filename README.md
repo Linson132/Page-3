@@ -16,13 +16,13 @@
 
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>10,000</td>
+    <td>$25.00</td>
 
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
+    <td>100,000</td>
+    <td>$50.00</td>
   
   </tr>
 </table>
